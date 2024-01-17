@@ -3,4 +3,4 @@
 -- yolo fucking Skidders
 
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/k00pz/Visual/main/visualv0'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/k00pz/visualized/main/Visual'))()
